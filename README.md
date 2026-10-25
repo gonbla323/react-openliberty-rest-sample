@@ -257,8 +257,8 @@ npm run dev
 
 以下からダウンロードできます。
 
-**[サンプルプロジェクトZIPをダウンロード](./downloads/sample-project.7z)**
+**[サンプルプロジェクト7zをダウンロード](./downloads/sample-project.7z)**
 
-ZIPにはReact、BFF、Appの各プロジェクトを格納します。
+7zにはReact、BFF、Appの各プロジェクトを格納します。
 
 `node_modules`、`target`などの生成物は含めず、ダウンロード後に依存関係を取得してビルドする構成とします。
